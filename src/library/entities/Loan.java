@@ -2,7 +2,7 @@ package library.entities;
 import java.io.Serializable;
 import java.text.SimpleDateFormat;
 import java.util.Date;
-
+//Author: Kate
 @SuppressWarnings("serial")
 public class Loan implements Serializable {
 	
